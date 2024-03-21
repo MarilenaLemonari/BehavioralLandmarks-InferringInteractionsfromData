@@ -6,7 +6,7 @@ Eurographics 2024 Poster Session</br>
 April 2024</strong>
 </div>
 
-
+![Demo Image](https://github.com/MarilenaLemonari/BehavioralLandmarks-InferringInteractionsfromData/blob/main/Misc/demo.png)
 
 <p align="justify">
 We aim to unravel complex agent-environment interactions from trajectories, by explaining agent paths as combinations of predefined basic behaviors. We detect trajectory points signifying environment-driven behavior changes, ultimately disentangling interactions in space and time; our framework can be used for environment synthesis and authoring, shown by our case studies.
