@@ -15,14 +15,14 @@ We aim to unravel complex agent-environment interactions from trajectories, by e
 <br>
 
 <p align="center"><strong>
-	- <a href="" target="_blank">PDF Paper</a> | <a href="" target="_blank">Video</a> | <a href="" target="_blank">Poster</a> -
+	- <a href="" target="_blank">PDF Paper</a> | <a href="https://youtu.be/Z2b3Zv05eGY" target="_blank">Video</a> | <a href="" target="_blank">Poster</a> -
 </strong>
 </p>
 
 <br>
 
 <p align="center" dir="auto">
-	<a href="" rel="nofollow">
+	<a href="https://youtu.be/Z2b3Zv05eGY" rel="nofollow">
 		<img align="center" width="400px" src=""/>
 	</a>
 </p>
