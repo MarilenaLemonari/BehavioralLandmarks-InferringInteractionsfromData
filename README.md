@@ -15,7 +15,9 @@ We aim to unravel complex agent-environment interactions from trajectories, by e
 <br>
 
 <p align="center"><strong>
-	- <a href="" target="_blank">PDF Paper</a> | <a href="https://youtu.be/Z2b3Zv05eGY" target="_blank">Video</a> | <a href="https://github.com/MarilenaLemonari/BehavioralLandmarks-InferringInteractionsfromData/blob/main/Misc/Posterv2.pdf" target="_blank">Poster</a> -
+	- <a href="" target="_blank">PDF Paper</a> | <a href="https://youtu.be/Z2b3Zv05eGY" target="_blank">Video</a> | 
+	<a href="https://diglib.cgv.tugraz.at/handle/10.2312/egp20241039" target="_blank">DOI</a> | 
+	<a href="https://github.com/MarilenaLemonari/BehavioralLandmarks-InferringInteractionsfromData/blob/main/Misc/Posterv2.pdf" target="_blank">Poster</a> -
 </strong>
 </p>
 
